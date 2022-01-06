@@ -129,6 +129,7 @@ export default defineComponent({
       }
       .part {
         margin-top: 5px;
+        padding: 0 12px;
         .part-title {
           padding: 5px 10px;
           font-weight: 600;
