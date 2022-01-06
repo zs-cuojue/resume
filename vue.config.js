@@ -1,6 +1,6 @@
 module.exports = {
   publicPath: './',
-  assetsDir: 'docs',
+  outputDir: 'docs',
   devServer: {
     open: true
   }
