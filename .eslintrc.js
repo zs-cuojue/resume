@@ -19,7 +19,7 @@ module.exports = {
     'prettier/prettier': [
       'error',
       {
-        semi: true, // 结尾加分号
+        semi: false, // 结尾不加分号
         singleQuote: true, // 使用单引号
         'prettier.printWidth': 500, // 超过最大值换行
         tabWidth: 2, // 缩进字节数
