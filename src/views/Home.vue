@@ -1,7 +1,8 @@
 <template>
-  <div class="home">
+  <div class="home" id="printTest">
     <resume-header></resume-header>
     <work-experience></work-experience>
+    <a href="javascript:window.print();">打印</a>
   </div>
 </template>
 
