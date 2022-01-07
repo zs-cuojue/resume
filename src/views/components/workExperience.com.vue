@@ -39,24 +39,22 @@ export default defineComponent({
         time: '2021.8 ~ now',
         content: [
           {
-            title: '前端架构',
+            title: '工作职责',
             list: [
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '根据设计，利用 HTML5/CSS3/JavaScript/Vue 等 Web 技术进行产品页面及功能开发'
               },
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
-              }
-            ]
-          },
-          {
-            title: '团队建设',
-            list: [
-              {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '参与软件功能设计，开发进度计划的讨论，配合后端工程师按时完成项目'
               },
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '就项目开发所遇到的问题，与相关负责人紧密交流并解决'
+              },
+              {
+                text: '不断优化产品的用户体验，提升兼容性、友好性'
+              },
+              {
+                text: '项目自测，梳理流程，配合测试人员修改 Bug'
               }
             ]
           }
@@ -71,21 +69,19 @@ export default defineComponent({
             title: '前端架构',
             list: [
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '项目初期讨论，评估开发周期并指定合理计划'
               },
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
-              }
-            ]
-          },
-          {
-            title: '团队建设',
-            list: [
-              {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '配合产品经理，设计和改进用户体验，增强产品兼容性，易用性'
               },
               {
-                text: '主导基于 k8s 的前端 Gitlab CI/CD 流水线搭建'
+                text: '配合后端工程师梳理业务逻辑，接口联调'
+              },
+              {
+                text: '开发核心功能，review 整体代码，规范代码书写习惯'
+              },
+              {
+                text: '配合测试人员完善项目细节、提交产品审核、使产品顺利上线运行'
               }
             ]
           }

@@ -7,7 +7,14 @@
     <hr />
     <div class="educate-content">
       <ul>
-        <li>华中科技大学文华学院 &nbsp;&nbsp;&nbsp; 2014.9 ~ 2018.7</li>
+        <li>
+          武汉商学院 &nbsp;&nbsp;&nbsp; 2018.9 ~ 2020.7 &nbsp;&nbsp;&nbsp;
+          (本科)
+        </li>
+        <li>
+          武汉铁路职业技术学院 &nbsp;&nbsp;&nbsp; 2015.9 ~ 2018.7
+          &nbsp;&nbsp;&nbsp; (专科)
+        </li>
       </ul>
     </div>
   </section>

@@ -29,28 +29,25 @@ export default defineComponent({
   setup() {
     const skillData = reactive([
       {
-        text: '入理解并熟练开发基于 Vue + Vuex + TypeScript 的应用'
+        text: '能够基于 WebSocket 实现用户线上即时通讯、页面数据自动实时刷新'
       },
       {
-        text: '熟悉开发基于 React + Hooks + Dva + Umi 的应用'
+        text: '能够使用 vue-amap 高德地图组件实现地图点标记、线标记和矢量图的绘制'
       },
       {
-        text: '能够基于声网 Agora SDK 搭建具有 RTM 实时消息通讯、RTC 视频通话功能的web平台'
+        text: '熟练使用 HTML/HTML5，CSS/CSS3，能够根据设计稿快速搭建页面'
       },
       {
         text: '了解 Canvas、原型链、继承、作用域、闭包原理，掌握常见跨域技巧'
       },
       {
-        text: '熟悉 ES2015+ 特性，了解前端性能优化与调试技巧，并在项目中大量应用'
+        text: '熟练使用 JavaScript 进行函数式编程、DOM、BOM 操作、Ajax、面向对象方式编程'
       },
       {
-        text: '熟悉 ElementUI、iView、Antd 等组件库'
+        text: '熟练使用 Vue 框架能够使用 Vue-cli、Vuex、Vue-Router，进行组件化开发、模块化开发，对 v-model 有一定理解'
       },
       {
-        text: '熟悉 Echarts、G2、G6、Graphin、vis 等可视化库'
-      },
-      {
-        text: '熟练使用 Git, Webpack, Typescript, Less, js-xlsx, MockJs'
+        text: '熟练使用 Git, Webpack， Typescript, Less, MockJs'
       }
     ])
 
